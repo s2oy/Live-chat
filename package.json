@@ -1,18 +1,14 @@
 {
   "name": "zoom",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Zoom Clone using NodeJs, WebRTC and Websockets.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/seoyeon-baek/Live-chat.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/seoyeon-baek/Live-chat/issues"
   },
