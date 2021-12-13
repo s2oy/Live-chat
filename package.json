@@ -9,8 +9,18 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
   "bugs": {
     "url": "https://github.com/seoyeon-baek/Live-chat/issues"
   },
-  "homepage": "https://github.com/seoyeon-baek/Live-chat#readme"
+  "homepage": "https://github.com/seoyeon-baek/Live-chat#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/node": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "nodemon": "^2.0.15"
+  }
 }
